@@ -32,7 +32,7 @@
 ║  👾 ENCOUNTER: [ HEISENBUG - THE NULL POINTER CORRUPTOR ] (LVL 99 BOSS)     ║
 ║  BOSS HP: [████████░░░░░░░░] 52/100  •  STATUS: WEAK TO WEBRTC & CLEAN CODE  ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  🧙‍♂️ SHUBHAM PRASAD (LVL 22 FULL-STACK ARCHMAGE):                             ║
+║  🧙‍♂️ AB (LVL 22 FULL-STACK ARCHMAGE):                             ║
 ║  HP:  [████████████████] 100/100     MP: [████████████████] 100/100 (READY)  ║
 ║                                                                              ║
 ║  ⚡ SELECT COMBAT ACTION:                                                    ║
@@ -47,7 +47,7 @@
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│  NAME: Shubham Prasad             GUILD: MERN Architects               │
+│  NAME: AB             GUILD: MERN Architects               │
 │  TITLE: Real-Time Conjurer        LATENCY: 12ms (Supercharged)         │
 │  SPECIAL ARTEFACT: WebRTC Sockets COOLDOWN: 0.0s (Instant Cast)        │
 ├────────────────────────────────────────────────────────────────────────┤
