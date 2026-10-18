@@ -12,7 +12,7 @@
                [ L E V E L  2 2  •  M A G E ]
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=PLAYER+1%3A+SHUBHAM+PRASAD;CLASS%3A+FULL-STACK+SPELLCASTER;SPECIALTY%3A+WEBRTC+%2B+REAL-TIME+SOCKETS;CURRENT+MISSION%3A+CONQUERING+THE+MERN+REALM;MANA+SOURCE%3A+CHAI+%2B+CLEAN+COMMITS)](https://github.com/Shubh6p)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=PLAYER+1%3A+AB;CLASS%3A+FULL-STACK+SPELLCASTER;SPECIALTY%3A+WEBRTC+%2B+REAL-TIME+SOCKETS;CURRENT+MISSION%3A+CONQUERING+THE+MERN+REALM;MANA+SOURCE%3A+CHAI+%2B+CLEAN+COMMITS)](https://github.com/Shubh6p)
 
 <p align="center">
   <img src="https://img.shields.io/badge/PLAYER_1-READY-00FF66?style=for-the-badge&logo=gamepad&logoColor=black" alt="Player Ready" />
@@ -32,7 +32,7 @@
 ║  👾 ENCOUNTER: [ HEISENBUG - THE NULL POINTER CORRUPTOR ] (LVL 99 BOSS)     ║
 ║  BOSS HP: [████████░░░░░░░░] 52/100  •  STATUS: WEAK TO WEBRTC & CLEAN CODE  ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  🧙‍♂️ AB (LVL 22 FULL-STACK ARCHMAGE):                             ║
+║  🧙‍♂️ AB (LVL 22 FULL-STACK ARCHMAGE):                                         ║
 ║  HP:  [████████████████] 100/100     MP: [████████████████] 100/100 (READY)  ║
 ║                                                                              ║
 ║  ⚡ SELECT COMBAT ACTION:                                                    ║
@@ -47,7 +47,7 @@
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│  NAME: AB             GUILD: MERN Architects               │
+│  NAME: AB                         GUILD: MERN Architects               │
 │  TITLE: Real-Time Conjurer        LATENCY: 12ms (Supercharged)         │
 │  SPECIAL ARTEFACT: WebRTC Sockets COOLDOWN: 0.0s (Instant Cast)        │
 ├────────────────────────────────────────────────────────────────────────┤
@@ -151,6 +151,37 @@ WebRTC [★★★★★] 98%  •  Socket.io [★★★★★] 99%  •  APIs & 
 
 ---
 
+## 🟩 8-BIT CONTRIBUTION MATRIX & ARCADE SNAKE EATER
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  🕹️ ARCADE MINI-GAME: MANA HARVESTER (CONTRIBUTION SNAKE)                    ║
+║  TOTAL RUNES FORGED: 211+ CONTRIBUTIONS  •  ACTIVE COMBO STREAK: BURNING 🔥  ║
+║  CURRENT SEASON    : 2026 RAID TIER      •  GAME ENGINE: OVERCLOCKED         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubh6p/Shubh6p/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubh6p/Shubh6p/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Shubh6p/Shubh6p/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+<br/>
+
+```text
+🟩🟩🟩🟩 [CRITICAL CONJURATION] : Deep Real-Time Magic, WebRTC & Core Architecture
+🟩🟩🟩░░ [ACTIVE RAID DAYS]     : High-Intensity Feature Launches & Bug Eradication
+🟩🟩░░░░ [STEADY CASTING]       : Code Optimization, Clean Refactoring & Database Tuning
+⬜░░░░░░ [MANA RESTORATION]     : Chai Sips, System Architecture Planning & DSA Contests
+```
+
+</div>
+
+---
+
 ## 🏆 GUILD RELICS & COMBO BATTLE STATS
 
 <div align="center">
@@ -159,7 +190,7 @@ WebRTC [★★★★★] 98%  •  Socket.io [★★★★★] 99%  •  APIs & 
 [ COMBO MULTIPLIER: 10x STREAK ACTIVE • SERVER OVERCLOCK ENGAGED ]
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shubh6p&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9&icon_color=a78bfa" alt="Shubham's Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shubh6p&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9&icon_color=a78bfa" alt="AB's Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh6p&theme=radical&hide_border=true&background=0d1117&ring=00ff66&fire=a78bfa&currStreakLabel=00ff66" alt="Combo Streak" height="165" />
 
 <br/>
